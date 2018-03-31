@@ -1,1 +1,7 @@
-{ "changelog" : [] }
+{ 
+  "changelog" : [
+    {
+      "date" : "0"
+    }
+  ]
+}
